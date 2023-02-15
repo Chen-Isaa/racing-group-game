@@ -1882,6 +1882,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4570888915116111697, guid: 4e630d52eb0a7c94d81a76c596960e1a, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 2d261f9b771198d49a1ce01d913dad6c, type: 2}
+    - target: {fileID: -3809945072200597350, guid: 4e630d52eb0a7c94d81a76c596960e1a, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 2d261f9b771198d49a1ce01d913dad6c, type: 2}
     - target: {fileID: -2621405368838196793, guid: 4e630d52eb0a7c94d81a76c596960e1a, type: 3}
       propertyPath: m_LocalScale.y
       value: 0.5
@@ -1894,6 +1902,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: road straight
       objectReference: {fileID: 0}
+    - target: {fileID: 5804146120715219116, guid: 4e630d52eb0a7c94d81a76c596960e1a, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 2d261f9b771198d49a1ce01d913dad6c, type: 2}
+    - target: {fileID: 7477520717294947243, guid: 4e630d52eb0a7c94d81a76c596960e1a, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 2d261f9b771198d49a1ce01d913dad6c, type: 2}
+    - target: {fileID: 8892332160023501472, guid: 4e630d52eb0a7c94d81a76c596960e1a, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 2d261f9b771198d49a1ce01d913dad6c, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4e630d52eb0a7c94d81a76c596960e1a, type: 3}
 --- !u!1001 &1635953502
