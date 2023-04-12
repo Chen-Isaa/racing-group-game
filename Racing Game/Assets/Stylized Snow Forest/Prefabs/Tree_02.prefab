@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 7732047241674621227}
   - component: {fileID: 6571199130936461155}
   - component: {fileID: 8754095473683609198}
+  - component: {fileID: 516361605885149153}
   m_Layer: 0
   m_Name: SM_Tree_02_LOD0
   m_TagString: Untagged
@@ -96,6 +97,20 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 3133801555868132275, guid: 3f89a9191131d594c9631bcf976babae, type: 3}
+--- !u!136 &516361605885149153
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 356946577452164155}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 0.5008911
+  m_Height: 12.516757
+  m_Direction: 1
+  m_Center: {x: 0.15408397, y: 5.8768125, z: -0.06982243}
 --- !u!1 &4950306230723516726
 GameObject:
   m_ObjectHideFlags: 0
