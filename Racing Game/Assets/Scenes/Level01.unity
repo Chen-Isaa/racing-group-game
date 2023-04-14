@@ -11479,16 +11479,24 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 627556911, guid: 79d0ca8b77e301442afdb49f102e8aed, type: 3}
       propertyPath: maxSpeed
-      value: 145
+      value: 75
       objectReference: {fileID: 0}
     - target: {fileID: 627556911, guid: 79d0ca8b77e301442afdb49f102e8aed, type: 3}
       propertyPath: useSounds
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 627556911, guid: 79d0ca8b77e301442afdb49f102e8aed, type: 3}
+      propertyPath: steeringSpeed
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 627556911, guid: 79d0ca8b77e301442afdb49f102e8aed, type: 3}
       propertyPath: carEngineSound
       value: 
       objectReference: {fileID: 1117484385}
+    - target: {fileID: 627556911, guid: 79d0ca8b77e301442afdb49f102e8aed, type: 3}
+      propertyPath: maxSteeringAngle
+      value: 45
+      objectReference: {fileID: 0}
     - target: {fileID: 627556911, guid: 79d0ca8b77e301442afdb49f102e8aed, type: 3}
       propertyPath: tireScreechSound
       value: 
