@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.13102695, g: 0.19069517, b: 0.29399058, a: 1}
+  m_IndirectSpecularColor: {r: 0.13102765, g: 0.19069612, b: 0.29399106, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -13121,7 +13121,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'THANKS
+  m_Text: 'Level
 
 '
 --- !u!222 &1620955142
@@ -14687,8 +14687,7 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: '
 
-
-    FOR PLAYING
+    Complete
 
 '
 --- !u!222 &1796747585
