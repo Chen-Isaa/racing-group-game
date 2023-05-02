@@ -259,7 +259,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Start
+  m_Text: Continue
 --- !u!222 &753192716
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -531,7 +531,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Ultra-Mega-Super-Funtastic-Awesome Cool Racing Game
+  m_Text: 'CFA Racing Game
+
+'
 --- !u!222 &1097034150
 CanvasRenderer:
   m_ObjectHideFlags: 0
