@@ -990,8 +990,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.000061035, y: 40.698}
-  m_SizeDelta: {x: 974.3695, y: 239.9128}
+  m_AnchoredPosition: {x: 0.000061035, y: 58.22388}
+  m_SizeDelta: {x: 974.3695, y: 274.9645}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2118501853
 MonoBehaviour:
@@ -1035,7 +1035,9 @@ MonoBehaviour:
     D - Turn Right
 
     Space
-    - Drift'
+    - Drift
+
+    ***IF YOU GET STUCK PRESS R TO RESTART***'
 --- !u!222 &2118501854
 CanvasRenderer:
   m_ObjectHideFlags: 0
