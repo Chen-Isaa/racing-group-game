@@ -201,7 +201,7 @@ GameObject:
   - component: {fileID: 753192716}
   - component: {fileID: 753192715}
   m_Layer: 5
-  m_Name: Text
+  m_Name: ContinueText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -809,7 +809,7 @@ GameObject:
   - component: {fileID: 2116678643}
   - component: {fileID: 2116678642}
   m_Layer: 5
-  m_Name: Button
+  m_Name: ContinueButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
