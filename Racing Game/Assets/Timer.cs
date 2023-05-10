@@ -31,8 +31,17 @@ public class Timer : MonoBehaviour
             currentTime = timerLimit;
             SetTimerText();
             timerText.color = Color.red;
-            enabled = false;
+            enabled = true;
         }
+        if (Input.GetKeyDown(KeyCode.R))
+        {
+            timerText.text = currentTime.ToString("0.00"); 
+            currentTime = timerLimit;
+            SetTimerText();
+            timerText.color = Color.red;
+            enabled = true;
+        }
+            
 
         SetTimerText();
     }
